@@ -13,7 +13,7 @@ import numpy as np
 
 import dataset
 
-MARKER = "v"
+MARKER = "*"
 DEFAULT_CMAP = "PuBuGn"
 CMAPS = [
     "viridis", "plasma", "inferno", "magma", "cividis", "Greys", "Purples",
