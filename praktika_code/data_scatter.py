@@ -12,8 +12,8 @@ from matplotlib.figure import Figure
 
 import dataset
 
-# Цифровой корень ID 70227772 равен 7; индивидуальный маркер — «v».
-MARKER = "v"
+# Цифровой корень ID 70227772 равен 7; индивидуальный маркер — «*».
+MARKER = "*"
 
 
 class ScatterApp:
