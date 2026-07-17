@@ -13,7 +13,7 @@ import numpy as np
 
 import dataset
 
-MARKER = "v"
+MARKER = "*"
 DEFAULT_CMAP = "PuBuGn"
 # Цифровой корень 70227772: 7; 7 // 2 + 5 = 8.
 DEFAULT_WIDTH = 8
